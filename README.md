@@ -1,2 +1,50 @@
-# crash-game-simulator
-A CLI based Aviator crash game simulator built in Python with real time gameplay and performance visualization using NumPy and Matplotlib.
+# Aviator Pro (Python)
+
+A  crash betting game you can play in your terminal.  
+This project simulates the popular "Aviator" style game using Python.
+
+---
+
+## Features
+
+- Real time multiplier growth
+- Random crash system
+- Manual cash out option
+- Balance tracking
+- Profit/Loss tracking
+- Graph after every 10 rounds
+- Clean and simple logic
+
+---
+
+## Tech Used
+
+- Python
+- NumPy
+- Matplotlib
+
+---
+
+## How It Works
+
+1. Start with a balance of $100
+2. Enter your bet
+3. Multiplier starts increasing
+4. Cash out before it crashes
+5. If you wait too long → you lose the bet
+
+---
+
+## Stats Visualization
+
+After every 10 rounds, a graph is shown:
+- X-axis → Rounds
+- Y-axis → Total Profit/Loss
+
+This helps you understand your performance.
+
+---
+
+## How to Run
+
+1. Install dependencies:
