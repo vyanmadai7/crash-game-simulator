@@ -53,3 +53,21 @@ pip install numpy matplotlib<br>
 ## Run the game:
 python main.py
 
+
+---
+
+## Note
+
+This is just a simulation for learning and fun.  
+It does NOT use real money.
+
+---
+
+## Future Ideas
+
+- Add GUI (Tkinter / Web)
+- Add auto cash-out feature
+- Add sound effects
+- Improve crash algorithm realism
+
+---
