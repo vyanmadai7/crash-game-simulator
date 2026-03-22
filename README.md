@@ -47,4 +47,9 @@ This helps you understand your performance.
 
 ## How to Run
 
-1. Install dependencies:
+1. Install dependencies:<br>
+pip install numpy matplotlib<br>
+
+## Run the game:
+python main.py
+
