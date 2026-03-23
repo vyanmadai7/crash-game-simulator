@@ -61,7 +61,7 @@ python main.py
 This is just a simulation for learning and fun.  
 It does NOT use real money.
 
----
+-----
 
 ## Future Ideas
 
@@ -70,4 +70,4 @@ It does NOT use real money.
 - Add sound effects
 - Improve crash algorithm realism
 
----
+-----
