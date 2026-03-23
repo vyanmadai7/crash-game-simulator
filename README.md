@@ -43,7 +43,7 @@ After every 10 rounds, a graph is shown:
 
 This helps you understand your performance.
 
----
+-----
 
 ## How to Run
 
@@ -54,7 +54,7 @@ pip install numpy matplotlib<br>
 python main.py
 
 
----
+-----
 
 ## Note
 
