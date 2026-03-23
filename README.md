@@ -33,7 +33,7 @@ This project simulates the popular "Aviator" style game using Python......
 4. Cash out before it crashes
 5. If you wait too long → you lose the bet
 
----
+-----
 
 ## Stats Visualization
 
