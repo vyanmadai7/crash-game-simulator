@@ -1,7 +1,7 @@
 # Mini Gambling Game (Python)
 
-A  crash betting game you can play in your terminal......
-This project simulates the popular "Aviator" style game using Python.
+A  crash betting game you can play in your terminal......<br>
+This project simulates the popular "Aviator" style game using Python......
 
 ---
 
