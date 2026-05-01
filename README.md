@@ -3,7 +3,7 @@
 A  crash betting game you can play in your terminal......<br>
 This project simulates the popular "Aviator" style game using Python......
 
------------------
+---------------------
 
 ## ------Features------
 
@@ -15,7 +15,7 @@ This project simulates the popular "Aviator" style game using Python......
 - Graph after every 10 rounds
 - Clean and simple logic
 
------------------
+---------------------
 
 ## Tech Used
 
