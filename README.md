@@ -23,7 +23,7 @@ This project simulates the popular "Aviator" style game using Python......
 - NumPy
 - Matplotlib
 
----------------------
+-------------------------
 
 ## How It Works
 
