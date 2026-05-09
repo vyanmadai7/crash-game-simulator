@@ -5,7 +5,7 @@ This project simulates the popular "Aviator" style game using Python.<br>
 
 -------------------------
 
-## ------ Features ------
+##  Features 
 
 - Real time multiplier growth
 - Random crash system
