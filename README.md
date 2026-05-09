@@ -33,7 +33,7 @@ This project simulates the popular "Aviator" style game using Python.<br>
 4. Cash out before it crashes
 5. If you wait too long → you lose the bet
 
------
+----------------
 
 ## Stats Visualization
 
@@ -43,7 +43,7 @@ After every 10 rounds, a graph is shown:
 
 This helps you understand your performance.
 
------
+---------------
 
 ## How to Run
 
@@ -54,14 +54,14 @@ pip install numpy matplotlib<br>
 python main.py
 
 
------
+---------------
 
 ## Note
 
 This is just a simulation for learning and fun.  
 It does NOT use real money.
 
------
+---------------
 
 ## Future Ideas
 
@@ -70,4 +70,4 @@ It does NOT use real money.
 - Add sound effects
 - Improve crash algorithm realism
 
------
+---------------
